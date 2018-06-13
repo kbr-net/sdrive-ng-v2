@@ -1,0 +1,10 @@
+atmega32/
+!atmega32/Makefile
+!atmega32/README
+atmega328/
+!atmega328/Makefile
+!atmega328/README
+*.old
+*.bak
+test*
+TODO
